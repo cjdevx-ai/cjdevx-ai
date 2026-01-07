@@ -64,12 +64,21 @@ I specialize in building **LLM-powered apps, AI copilots, and multimodal systems
 
 ---
 
-### 📊 **GitHub Stats**  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjdevx-ai&show_icons=true&theme=radical" alt="GitHub Stats" width="450px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdevx-ai&layout=compact&theme=radical" alt="Top Languages" width="450px">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=cjdevx-ai&show_icons=true&theme=radical&cache_seconds=1800"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdevx-ai&layout=compact&theme=radical&cache_seconds=1800"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
+
 
 ---
 

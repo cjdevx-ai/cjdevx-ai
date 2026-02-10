@@ -3,26 +3,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9E0F,100:8E44AD&height=180&section=header&text=Clarence%20Fetalino&fontSize=42&fontColor=fff&animation=fadeIn" />
 </p>
 
-# 👋 Hey there, I'm Clarence  
+# Hey there, I'm Clarence  
 
-🚀 **AI Software Engineer | Generative AI Specialist | Tech Enthusiast**  
+ **AI Software Engineer | Generative AI Specialist | Tech Enthusiast**  
 
 With **4+ years of experience** in **Artificial Intelligence, Generative AI, and Software Engineering**,  
 I specialize in building **LLM-powered apps, AI copilots, and multimodal systems** — transforming ideas into **next-gen AI solutions**.  
 
 ---
 
-## 🔥 My Focus  
+## My Focus  
 
-- 🧠 **Generative AI & LLMs** → Chatbots, copilots, autonomous agents, and content generation  
-- 🔗 **AI Tooling** → LangChain, HuggingFace, OpenAI, fine-tuning & custom pipelines  
-- 🖼️ **Multimodal AI** → Vision-Language models, embeddings, transformers  
-- ☁️ **Scalable Deployment** → Cloud-native (AWS/GCP), Docker, CI/CD, serverless AI APIs  
-- 🤝 **Collaboration** → Open-source contributions, mentoring, research & innovation  
+-  **Generative AI & LLMs** → Chatbots, copilots, autonomous agents, and content generation  
+-  **AI Tooling** → LangChain, HuggingFace, OpenAI, fine-tuning & custom pipelines  
+-  **Multimodal AI** → Vision-Language models, embeddings, transformers  
+-  **Scalable Deployment** → Cloud-native (AWS/GCP), Docker, CI/CD, serverless AI APIs  
+-  **Collaboration** → Open-source contributions, mentoring, research & innovation  
 
 ---
 
-## 🚀 Tech Stack (GenAI & Beyond)  
+##  Tech Stack (GenAI & Beyond)  
 
 <p align="center">
 
@@ -64,7 +64,7 @@ I specialize in building **LLM-powered apps, AI copilots, and multimodal systems
 
 ---
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cjdevx-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cjdevx-ai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cjdevx-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -72,7 +72,7 @@ I specialize in building **LLM-powered apps, AI copilots, and multimodal systems
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
   <a href="mailto:cjmfetalino18@gmail.com">
